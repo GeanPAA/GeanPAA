@@ -1,4 +1,5 @@
-![Gean Banner](https://i.imgur.com/7zR6NfX.png)
+![Gean Banner]
+<img src="https://emoji.gg/assets/emoji/java.png" width="40"/>
 <img alt="Wave" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="left"/>
 <h2 align="left">¡Hey! Soy Gean Pierre Ayala 👋</h2>
 
