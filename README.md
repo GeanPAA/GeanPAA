@@ -1,8 +1,6 @@
 <img alt="Wave" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="left"/>
 <h2 align="left">¡Hey! Soy Gean Pierre Ayala 👋</h2>
 
-<img src="https://emoji.gg/assets/emoji/java.png" width="40"/> 
-
 ### 👨🏻‍💻 Sobre mí
 💡 Me gusta aprender tecnologías nuevas y crear proyectos web que mezclen lógica y buen diseño.  
 🌱 Actualmente sigo mejorando en **Laravel**, **Spring Boot** y **bases de datos relacionales**.  
@@ -42,3 +40,5 @@
 </p>
 
 ---
+
+<img src="https://emoji.gg/assets/emoji/java.png" width="40"/> 
